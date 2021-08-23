@@ -1,1 +1,1 @@
-MiniRogue Project
+Roguelike terminal game, ran in C++.
