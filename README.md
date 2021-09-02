@@ -1,10 +1,10 @@
 Roguelike terminal game, ran in C++.
 
-Keyboard Commands:
+- Keyboard Commands:
 
-  arrow keys. Move player
-  i: Display inventory
-  g: Pick up Item
+  - arrow keys: Move player
+  - i: Display inventory
+  - g: Pick up Item
   h: Display help
   q: Quit game
   c: Enter god mode
