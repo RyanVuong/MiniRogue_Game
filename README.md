@@ -15,5 +15,5 @@ Roguelike terminal game, ran in C++.
   - B,D,G,S: Monsters
   - ): Weapon
   - ?: Scroll
-  - > : Stairs
+  - '>': Stairs
   - &: Golden Idol
