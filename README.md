@@ -7,8 +7,7 @@ Features:
 - Scrolls that the player can pick up which can teleport the player and enhance their attributes. 
 
 
-- Keyboard Commands:
-
+Keyboard Commands:
   - arrow keys: Move player
   - i: Display inventory
   - g: Pick up Item
@@ -16,8 +15,7 @@ Features:
   - q: Quit game
   - c: Enter god mode
   
-- Game Symbols:
-
+Game Symbols:
   - @: Player
   - B,D,G,S: Monsters
   - ): Weapon
