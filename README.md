@@ -1,5 +1,6 @@
 Roguelike terminal game, ran in C++. Objective: travel through the dungeon, down several flights of stairs, to retrieve the golden idol at the bottom. 
 <br />
+
 Features: 
 - Players and monsters with attributes like health, dexterity, armor, and strength. 
 - Weapons that monsters have and can drop, and weapons players can pick up off the dungeon. 
